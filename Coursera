@@ -1,0 +1,5 @@
+d Lint that's design to check whether or not your program has certain simple errors in it, like null pointer dereference or immature overflow. 
+
+
+
+ mutation testing, we essentially create a second version of the software. In this second version, we produce a mutation, some small artificial fault.
