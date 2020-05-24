@@ -6,11 +6,11 @@ Regression
 
 Smoke
 
-Blackbox - manual
+Blackbox - manual,user interface
 
-Whitebox - automate
+Whitebox - automate, code
 
-Graybox - middle blackbox & whitebox
+Greybox - middle blackbox & whitebox ,design documents and the database. 
 
 Testcase
 
