@@ -1,0 +1,44 @@
+Functional Testing
+This is a type of black-box testing that is based on the specifications of the software that is to be tested. The application is tested by providing input 
+
+
+Unit Testing
+
+Integration Testing
+Integration testing is defined as the testing of combined parts of an application to determine if they function correctly. Integration testing can be done in two ways: Bottom-up integration testing and Top-down integration testing.
+
+System Testing
+tests the system as a whole.
+
+Regression Testing
+ is performed to verify that a fixed bug hasn't resulted in another functionality or business rule violation.
+ 
+ Acceptance Testing
+ application meets the intended specifications and satisfies the client’s requirement.
+ 
+ Alpha Testing
+ Unit testing, integration testing and system testing
+ 
+ Beta Testing
+ 
+ Non-Functional Testing
+ a) performance-
+i) Load testing  - large data
+ ii) and Stress testing - Running different processes that consume resources such as CPU, memory, server, et
+ security, user interface, etc.
+ 
+ 
+ 
+ Usability Testing
+  ensures a good and user-friendly GUI that can be easily handled
+ 
+ Portability Testing
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
