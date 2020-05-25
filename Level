@@ -2,7 +2,8 @@ Functional Testing
 This is a type of black-box testing that is based on the specifications of the software that is to be tested. The application is tested by providing input 
 
 
-Unit Testing
+Unit Testing 
+Developer conduct testing
 
 Integration Testing
 Integration testing is defined as the testing of combined parts of an application to determine if they function correctly. Integration testing can be done in two ways: Bottom-up integration testing and Top-down integration testing.
