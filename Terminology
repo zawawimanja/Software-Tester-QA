@@ -8,7 +8,7 @@ Smoke
 
 Blackbox - manual,user interface
 
-Whitebox - automate, code
+Whitebox - automate, code,structural
 
 Greybox - middle blackbox & whitebox ,design documents and the database. 
 
