@@ -1,6 +1,6 @@
 Functional Testing
-This is a type of black-box testing that is based on the specifications of the software that is to be tested. The application is tested by providing input 
-
+-black-box testing that is based on the specifications of the software that is to be tested. The application is tested by providing input 
+- providing input and then the results are examined that need to conform to the functionality it was intended for
 
 Unit Testing 
 Developer conduct testing
@@ -23,17 +23,26 @@ Regression Testing
  Beta Testing
  
  Non-Functional Testing
- a) performance-
-i) Load testing  - large data
- ii) and Stress testing - Running different processes that consume resources such as CPU, memory, server, et
+ - test a software from the requirements which are nonfunctional in nature
+ a) performance
+ -any bottlenecks or performance issues rather than finding bugs in a software
+ 
+i) Load testing  
+- large data
+ ii)  Stress testing
+ - Running different processes that consume resources such as CPU, memory, server, et
  security, user interface, etc.
  
  
  
- Usability Testing
-  ensures a good and user-friendly GUI that can be easily handled
+b) Usability Testing
+ - ensures a good and user-friendly GUI that can be easily handled
+  
+c) Security Testing
+- testing a software in order to identify any flaws and gaps from security and vulnerability point of view.
  
  Portability Testing
+ - ensure its reusability and that it can be moved from another software as well
  
  
  
