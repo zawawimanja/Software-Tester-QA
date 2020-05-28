@@ -1,0 +1,31 @@
+
+Types of test 
+...................................
+local unit test
+- tests that are compiled and run entirely on your local machine 
+-jvm
+
+
+Instrumented tests 
+- tests that run on an Android-powered device or emulator
+
+
+Unit Test
+.....................
+
+
+mocking framework
+-mockit0
+
+-junit
+
+
+uitest
+- espresso
+-ui automator
+
+
+Firebase Test Lab
+-simultaneously test app on many popular Android devices and device configurations (locale, orientation, screen size, and platform version).
+
+
