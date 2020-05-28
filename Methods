@@ -1,0 +1,14 @@
+
+
+Black-Box Testing
+
+- The internal workings of an application need not be known.
+- providing inputs and examining outputs
+
+White-Box Testing
+
+- full knowledge of the internal workings of the application.
+
+Grey-Box 
+
+-limited knowledge of the internal workings of the application.
