@@ -1,4 +1,10 @@
-Test Plan
+Test Plan 
+- strategy that will be used to test an application,
+- the resources that will be used, 
+- the test environment in which testing will be performed, 
+- limitations of the testing 
+- the schedule of the testing activities
+
 Test Scenario
 Test Case
 Traceability Matrix
