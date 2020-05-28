@@ -6,5 +6,13 @@ Test Plan
 - the schedule of the testing activities
 
 Test Scenario
+-several steps
+-notifies what area in the application will be tested
+
 Test Case
+-single steps
+
 Traceability Matrix
+- table that is used to trace the requirements during the SDLC
+- inked with its associated test case so that testing can be done as per the mentioned requirements
+
