@@ -1,0 +1,34 @@
+
+
+Minimal Essential Testing Strategy
+
+https://www.metstesting.com/presentation/mets_presentation_p00/
+
+Concept
+...........
+
+1. Functional
+2. Prioritize - critical,high ,medium ,low
+
+Step
+........
+
+1. Physical Test Grid
+- contain touchable component in Excel
+
+2. Functional Test Grid
+ - high level function
+ 
+ 
+3 .Both step after that contain  test matrix grid 
+
+4. Allocate Time Budget
+- calculate time budget - time used = time balance
+ 
+ Advanced
+ ......
+ 
+ Direct Testing
+ Related Testing
+ Regression Testing
+
