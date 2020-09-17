@@ -6,9 +6,9 @@ Regression
 
 Smoke
 
-Blackbox - manual,user interface
+Blackbox - testing without  knowing inner application,manual,user interface
 
-Whitebox - automate, code,structural
+Whitebox - automate, internal working of code,structural
 
 Greybox - middle blackbox & whitebox ,design documents and the database. 
 
