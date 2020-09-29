@@ -21,4 +21,6 @@ Test Driven development - write test,testfail, write it again, test pass
 Debugging − 
 
 identifying, isolating, and fixing the problems/bugs. 
-a part of White Box Testing or Unit Testing
+a part of White Box Testing or Unit Testing 
+
+sanity test- test after every build
