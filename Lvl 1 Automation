@@ -16,4 +16,4 @@ http://demowebshop.tricentis.com -demo shop
 2. Identify by anchor and create groupcontrol - filter by anchor 
 3. testcase structure and test configuration parameter - rename folder
 4.open & close application/ create teststeps - ctrl + T = to find the function
-5. add test steps values
+5. add test steps values & random values
