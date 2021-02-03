@@ -17,3 +17,4 @@ http://demowebshop.tricentis.com -demo shop
 3. testcase structure and test configuration parameter - rename folder
 4.open & close application/ create teststeps - ctrl + T = to find the function
 5. add test steps values & random values
+6. dynamic date values
