@@ -25,3 +25,4 @@ http://demowebshop.tricentis.com -demo shop
 10. business parameter
 11.  Parent Control, Dynamic ID, and Dynamic Comparison
 12. Explicit Name - result count  and repetition,tbox set buffer and resultcount,repetition on folder level,explicitname on teststep value
+13. Link TestCases to Requirements
