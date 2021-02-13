@@ -27,3 +27,4 @@ http://demowebshop.tricentis.com -demo shop
 12. Explicit Name - result count  and repetition,tbox set buffer and resultcount,repetition on folder level,explicitname on teststep value
 13. Link TestCases to Requirements
 14. create and execute an execution list
+15. loop and condition
