@@ -31,7 +31,7 @@ http://demowebshop.tricentis.com -demo shop
 14. create and execute an execution list
 15. loop and condition - tak jumpa test case untuk navigate to chart, log out,close web shop
 16. recovery scenario -clean up scenario - kalau ada data tak cukup,clean up ni akan isi sendiri
-17.
+17. constraint & fireevent
 18. multi user environment - red =cannot changed, green =already checkout,white =can update.
 
 
