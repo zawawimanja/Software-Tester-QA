@@ -4,7 +4,7 @@ Test:
 
 Regression 
 
-Smoke
+Smoke - to test whether stable or not
 
 Blackbox - testing without  knowing inner application,manual,user interface
 
