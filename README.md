@@ -11,6 +11,8 @@ bug refers to an error in any computer program or a hardware system.
 
 A bug produces unexpected results or causes a system to behave unexpectedly. 
 
+Automation - Katalon & Selenium
+
 API - postman
 
 Apps- Appium
