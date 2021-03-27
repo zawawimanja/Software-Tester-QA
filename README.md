@@ -1,6 +1,8 @@
 # Software-Tester-QA
 Software Tester
 
+SELENIUM & KATALON is free
+
 LIVE PROJECT from a website is the best way to learn.
 
 Testing is the process of evaluating a system satisfies the specified requirements or not.
