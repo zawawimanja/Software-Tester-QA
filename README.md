@@ -1,7 +1,7 @@
 # Software-Tester-QA
 Software Tester
 
-SELENIUM & KATALON is free
+
 
 LIVE PROJECT from a website is the best way to learn.
 
