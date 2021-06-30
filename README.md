@@ -32,6 +32,9 @@ Tesla
 
 ![tesla](https://user-images.githubusercontent.com/37230267/112598327-64cf5c00-8e49-11eb-98f1-4332a2c75049.PNG)
 
+V MODEL
+
+![v-model](https://user-images.githubusercontent.com/37230267/123901127-001e2300-d99d-11eb-88bb-a5a2e03f62a7.jpg)
 
 
 
