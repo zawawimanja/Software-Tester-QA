@@ -43,10 +43,19 @@ Usability Testing: to determine how user-friendly a mobile app is without manual
 2. real env - background,gesture,interruption,network
 3. non functional - security,api ,performance
 
-The challenge of mobile testinng
+The challenge of mobile testinng - device fragmentation
 --------------------------------------
 Screen resolution
 Turning on/off GPS
 Screen orientation (landscape, portrait)
 Different devices’ manufacturers
 OSs
+Permission
+Impact hardware
+Network connection
+
+Tools for Mobile Test
+--------------------------
+Kobiton
+Appium
+Katalon
