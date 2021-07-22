@@ -1,5 +1,9 @@
 Appium  -   open-source test automation framework for testing native and hybrid apps and mobile web apps.
 
+Documentation -
+
+functional - field,biz functional, interruption,update,user feedback,device resource,
+
 Factory testing -conducted automatically to verify that there are no defects brought by the manufacturing or assembling.
 
 Certification Testing
@@ -7,3 +11,42 @@ Certification Testing
 
 Application Testing
 process by which application a software developed for handheld mobile devices is tested for its functionality, usability, and consistency
+
+Exploratory Testing: requires knowledge, analysis, experience, intuition, and creativity.
+
+Usability Testing: to determine how user-friendly a mobile app is without manual testing.
+
+ Ad-hoc Testing: where the insight and understanding of the tester is the only important factor.
+ 
+ accessibility testing -make usable to many people like disabilities
+  
+ beta
+ 
+ change related
+ 
+ localization
+ 
+ recovery
+ 
+ security
+ 
+ performance
+ 
+ Compatibility (Configuration) testing
+ 
+ UI test
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+3 types of mobile testing
+
+1. functionality - ui test,biz flow
+2. real env - background,gesture,interruption,network
+3. non functional - security,api ,performance
+
+The challenge of mobile testinng
+--------------------------------------
+Screen resolution
+Turning on/off GPS
+Screen orientation (landscape, portrait)
+Different devices’ manufacturers
+OSs
