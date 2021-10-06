@@ -11,6 +11,8 @@ Testing is identify any gaps, errors, or missing requirements
 
 bug refers to an error in any computer program or a hardware system.
 
+error refer to mistake in code
+
 A bug produces unexpected results or causes a system to behave unexpectedly. 
 
 Automation - Katalon & Selenium
