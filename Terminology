@@ -6,9 +6,9 @@ Regression
 
 Smoke - to test whether stable or not
 
-Blackbox - testing without  knowing inner application,manual,user interface
+Blackbox - testing without  knowing inner application,manual,user interface ,bi
 
-Whitebox - automate, internal working of code,structural
+Whitebox - automate, internal working of code,structural ,wc
 
 Greybox - middle blackbox & whitebox ,design documents and the database. 
 
