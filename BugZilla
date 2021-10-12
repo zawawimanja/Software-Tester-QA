@@ -1,4 +1,32 @@
 
-
-
 https://www.tutorialspoint.com/bugzilla/index.htm
+
+Priority - how long dev can fix | high,low,medium
+severity - the impact for system   | critical major  low minor
+
+1. function
+2. user
+
+----------------------------------------------
+High P High S
+Stopper
+
+High P Low S
+function work but user ran away
+
+LOW P High S
+not affect large user.
+disrupt function
+
+LOW P LOW S
+typo,font,color,cosmetics issue
+
+
+..........................................................
+steps
+actual result
+expected result
+summary
+description
+attachment
+os
