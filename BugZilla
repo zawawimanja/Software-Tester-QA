@@ -4,8 +4,8 @@ https://www.tutorialspoint.com/bugzilla/index.htm
 Priority - how long dev can fix | high,low,medium
 severity - the impact for system   | critical major  low minor
 
-1. function - severity
-2. user =prioririty
+1. function - severity ,sf
+2. user =prioririty ,pu
 
 ----------------------------------------------
 High P High S
