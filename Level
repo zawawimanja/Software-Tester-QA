@@ -1,4 +1,4 @@
-Functional Testing - testing ensures that functions and features of the application work properly
+1. Functional Testing - testing ensures that functions and features of the application work properly
 -black-box testing that is based on the specifications of the software that is to be tested. The application is tested by providing input 
 - providing input and then the results are examined that need to conform to the functionality it was intended for
 
@@ -22,7 +22,7 @@ Regression Testing
  
  Beta Testing
  
- Non-Functional Testing - testing examines other aspects of how well the application works.
+2.  Non-Functional Testing - testing examines other aspects of how well the application works.
  - test a software from the requirements which are nonfunctional in nature
  a) performance
  -any bottlenecks or performance issues rather than finding bugs in a software
