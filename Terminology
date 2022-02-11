@@ -1,8 +1,9 @@
 
 Test:
 
+Exploratory - check when system on fly
 
-Regression 
+Regression - is performed to verify that a fixed bug hasn't resulted in another functionality or business rule violation.
 
 Smoke - to test whether stable or not
 
