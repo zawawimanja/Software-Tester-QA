@@ -27,10 +27,12 @@ Regression Testing
  a) performance
  -any bottlenecks or performance issues rather than finding bugs in a software
  
+
+ 
 i) Load testing  
-- large data
+- large data  how a system behaves under an expected load.
  ii)  Stress testing
- - Running different processes that consume resources such as CPU, memory, server, et
+ -   a system's capacity using a load beyond the expected maximum.Running different processes that consume resources such as CPU, memory, server, et
  security, user interface, etc.
  
  
