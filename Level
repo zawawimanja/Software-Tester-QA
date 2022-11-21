@@ -36,7 +36,7 @@ UAT test for end user
 i) Load testing  
 - large data  how a system behaves under an expected load.
  ii)  Stress testing
- -   a system's capacity using a load beyond the expected maximum.Running different processes that consume resources such as CPU, memory, server, et
+ -   expected maximum.Running different processes that consume resources such as CPU, memory, server, et
  security, user interface, etc.
   
 b) Usability Testing
