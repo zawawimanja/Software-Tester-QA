@@ -22,21 +22,23 @@ Regression Testing
  
  Beta Testing
  
+SIT test for tester
+
+UAT test for end user
+ 
+ 
 2.  Non-Functional Testing - testing examines other aspects of how well the application works.
  - test a software from the requirements which are nonfunctional in nature
  a) performance
  -any bottlenecks or performance issues rather than finding bugs in a software
  
-
  
 i) Load testing  
 - large data  how a system behaves under an expected load.
  ii)  Stress testing
  -   a system's capacity using a load beyond the expected maximum.Running different processes that consume resources such as CPU, memory, server, et
  security, user interface, etc.
- 
- 
- 
+  
 b) Usability Testing
  - ensures a good and user-friendly GUI that can be easily handled
   
@@ -46,11 +48,3 @@ c) Security Testing
  Portability Testing
  - ensure its reusability and that it can be moved from another software as well
  
- 
- 
- 
- 
- 
-
-
-
