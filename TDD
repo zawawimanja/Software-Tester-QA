@@ -1,3 +1,4 @@
 TDD- tests are written before the actual code implementation
 BDD - describing the behavior of the system from the user's perspective using natural language specifications
+=given,when,then
 KDD -test case design and execution are based on keywords
