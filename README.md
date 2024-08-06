@@ -1,6 +1,16 @@
 # Software-Tester-QA
 Software Tester
 
+Popular Test Frameworks
+
+Unit Testing:
+JUnit (Java), NUnit (.NET), Pytest (Python)   
+Web UI Testing:
+Selenium WebDriver, Cypress, Playwright
+API Testing:
+Postman, Rest Assured, JMeter
+Database Testing:
+DbUnit, JUnit's database testing features   
 
 
 LIVE PROJECT from a website is the best way to learn.
