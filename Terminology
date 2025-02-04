@@ -1,9 +1,13 @@
 
 Test:
 
+flaky test" is one that sometimes passes and sometimes fails, even if you haven't changed the underlying code or the testing environment.
+
 Exploratory - check when system on fly
 
-Regression - is performed to verify that a fixed bug hasn't resulted in another functionality or business rule violation.
+Regression -  existing functionality of the software still works as expected after changes have been made
+
+Proregression - new functionality meets the requirements and works as designed.
 
 Smoke - to test whether stable or not
 
